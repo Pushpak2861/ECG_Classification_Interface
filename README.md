@@ -66,8 +66,4 @@ This Gradio-based web app performs **multi-label classification** on ECG signal 
 
 ```bash
 pip install -r requirements.txt
-python app.py
-
-
-## 🗂️ File Structure
-
+python app.py 
