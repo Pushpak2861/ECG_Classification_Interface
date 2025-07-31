@@ -34,7 +34,7 @@ This Gradio-based web app performs **multi-label classification** on ECG signal 
 
 ## File Structure
 .
-├── app.py # Main Gradio interface
+├── app.py # Main Gradio interface \\
 ├── ecg_1DCNN_model.h5 # Trained Keras model
 ├── scaler_metadata.joblib # Scaler for metadata
 ├── scaler_ecg.joblib # Scaler for ECG signal
